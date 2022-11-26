@@ -1,0 +1,15 @@
+D:\LineComparison\obj\Debug\net6.0\LineComparison.csproj.AssemblyReference.cache
+D:\LineComparison\obj\Debug\net6.0\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfoInputs.cache
+D:\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfo.cs
+D:\LineComparison\obj\Debug\net6.0\LineComparison.csproj.CoreCompileInputs.cache
+D:\LineComparison\bin\Debug\net6.0\LineComparison.exe
+D:\LineComparison\bin\Debug\net6.0\LineComparison.deps.json
+D:\LineComparison\bin\Debug\net6.0\LineComparison.runtimeconfig.json
+D:\LineComparison\bin\Debug\net6.0\LineComparison.dll
+D:\LineComparison\bin\Debug\net6.0\LineComparison.pdb
+D:\LineComparison\obj\Debug\net6.0\LineComparison.dll
+D:\LineComparison\obj\Debug\net6.0\refint\LineComparison.dll
+D:\LineComparison\obj\Debug\net6.0\LineComparison.pdb
+D:\LineComparison\obj\Debug\net6.0\LineComparison.genruntimeconfig.cache
+D:\LineComparison\obj\Debug\net6.0\ref\LineComparison.dll

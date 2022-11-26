@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LineComparison
-{
+namespace LineComparisons
+{ 
     internal class LineComparison
     {
-        public void lenthOfLine()
+        public void LenthOfLine()
         {
             Console.WriteLine("------- Enter the points of first line ------- ");
             Console.Write(" Enter the value of x1 : ");
@@ -38,11 +38,16 @@ namespace LineComparison
 
             if (length_Of_1stLine == length_Of_2ndLine)
             {
-                Console.WriteLine("\n Both lines in equal length");
+                Console.WriteLine("\nBoth lines in equal length");
+            }
+            if (length_Of_1stLine > length_Of_2ndLine)
+            {
+                Console.WriteLine("\n 1st line is greater than 2nd line ");
             }
             else
             {
-                Console.WriteLine("\n Both lines are not equal in length.");
+                Console.WriteLine("\n  2nd line is greater than 1st line ");
+
             }
         }
     }
